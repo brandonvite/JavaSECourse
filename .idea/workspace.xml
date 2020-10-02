@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f84c367e-3930-4193-8569-717fc4cd7534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MathematicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathematicOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathematicOperations.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MathematicOperations">
+  <component name="RunManager" selected="Application.Casting">
+    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Casting" />
+      <module name="CursoIntroduccionJavaSE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IncrementDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IncrementDecrement" />
       <module name="CursoIntroduccionJavaSE" />
@@ -75,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
-      <module name="CursoIntroduccionJavaSE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Casting" />
         <item itemvalue="Application.MathematicOperations" />
         <item itemvalue="Application.IncrementDecrement" />
         <item itemvalue="Application.NamingJava" />
         <item itemvalue="Application.UpdatingVariables" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
